@@ -1,0 +1,82 @@
+[
+    {
+        "ID": "femglukharhead",
+        "Name": "Fem Glukhar",
+        "Shortname": "F",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+    {
+        "ID": "femkillahead",
+        "Name": "Fem Killa",
+        "Shortname": "RH",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+    {
+        "ID": "femreshalahead",
+        "Name": "Fem Reshala",
+        "Shortname": "El",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+    {
+        "ID": "femsanitahead",
+        "Name": "Fem Sanitar",
+        "Shortname": "L",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+	{
+        "ID": "fembigpipehead",
+        "Name": "Fem Big Pipe",
+        "Shortname": "L",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+	{
+        "ID": "fembirdeyehead",
+        "Name": "Fem Bird Eye",
+        "Shortname": "L",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+	{
+        "ID": "femknighthead",
+        "Name": "Fem Knight",
+        "Shortname": "L",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+	{
+        "ID": "fempriesthead",
+        "Name": "Fem Priest",
+        "Shortname": "L",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+	{
+        "ID": "femtagillahead",
+        "Name": "Fem Tagilla",
+        "Shortname": "L",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+	{
+        "ID": "femwarriorhead",
+        "Name": "Fem Warrior",
+        "Shortname": "L",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    }
+]

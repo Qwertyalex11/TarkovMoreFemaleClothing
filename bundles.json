@@ -1,0 +1,251 @@
+{
+	"manifest": [
+{
+			"key": "clothing/killabody.bundle",
+			"dependencyKeys": [
+				"mats/killamat.bundle"
+			]
+		},
+		{
+			"key": "heads/femkillahead.bundle",
+			"dependencyKeys": [
+				"mats/killamat.bundle"
+			]
+		},
+		{
+			"key": "clothing/killaleg.bundle",
+			"dependencyKeys": [
+				"mats/killamat.bundle"
+			]
+		},
+		{
+			"key": "mats/killamat.bundle",
+			"dependencyKeys": [
+				
+			]
+		},
+		{
+			"key": "clothing/glukharbody.bundle",
+			"dependencyKeys": [
+				"glukharmat.bundle"
+			]
+		},
+		{
+			"key": "heads/femglukharhead.bundle",
+			"dependencyKeys": [
+				"mats/glukharmat.bundle"
+			]
+		},
+		{
+			"key": "clothing/glukharleg.bundle",
+			"dependencyKeys": [
+				"mats/glukharmat.bundle"
+			]
+		},
+		{
+			"key": "mats/glukharmat.bundle",
+			"dependencyKeys": [
+				
+			]
+		},
+		{
+			"key": "clothing/reshalabody.bundle",
+			"dependencyKeys": [
+				"mats/reshalamat.bundle"
+			]
+		},
+		{
+			"key": "heads/femreshalahead.bundle",
+			"dependencyKeys": [
+				"mats/reshalamat.bundle"
+			]
+		},
+		{
+			"key": "clothing/reshalaleg.bundle",
+			"dependencyKeys": [
+				"mats/reshalama.bundlet"
+			]
+		},
+		{
+			"key": "mats/reshalamat.bundle",
+			"dependencyKeys": [
+				
+			]
+		},
+		{
+			"key": "clothing/sanitabody.bundle",
+			"dependencyKeys": [
+				"mats/sanitamat.bundle"	
+			]
+		},
+		{
+			"key": "heads/femsanitahead.bundle",
+			"dependencyKeys": [
+				"mats/sanitamat.bundle"	
+			]
+		},
+		{
+			"key": "clothing/sanitaleg.bundle",
+			"dependencyKeys": [
+				"mats/sanitamat.bundle"	
+			]
+		},
+		{
+			"key": "mats/sanitamat.bundle",
+			"dependencyKeys": [
+				
+			]
+		},
+		{
+			"key": "clothing/shturmanbody.bundle",
+			"dependencyKeys": [
+				"mats/shturmanmat.bundle",
+				"tex/shturmantex.bundle"
+			]
+		},
+		{
+			"key": "clothing/shturmanleg.bundle",
+			"dependencyKeys": [
+				"mats/shturmanmat.bundle",
+				"tex/shturmantex.bundle"
+			]
+		},
+		{
+			"key": "mats/shturmanmat.bundle",
+			"dependencyKeys": [
+				"tex/shturmantex.bundle"	
+			]
+		},
+		{
+			"key": "tex/shturmantex.bundle",
+			"dependencyKeys": [	
+			]
+		},
+{
+			"key": "mats/tagillamat.bundle",
+			"dependencyKeys": [	
+			]
+		},
+		{
+			"key": "clothing/tagillaleg.bundle",
+			"dependencyKeys": [	
+				"mats/tagillamat.bundle"
+			]
+		},
+		{
+			"key": "clothing/tagillaskin.bundle",
+			"dependencyKeys": [	
+				"mats/tagillamat.bundle"
+			]
+		},
+		{
+			"key": "heads/femtagillahead.bundle",
+			"dependencyKeys": [	
+				"mats/tagillamat.bundle"
+			]
+		},
+		{
+			"key": "mats/knightmat.bundle",
+			"dependencyKeys": [	
+			]
+		},
+		{
+			"key": "clothing/knightleg.bundle",
+			"dependencyKeys": [	
+				"mats/knightmat.bundle"
+			]
+		},
+		{
+			"key": "clothing/knightskin.bundle",
+			"dependencyKeys": [	
+				"mats/knightmat.bundle"
+			]
+		},
+		{
+			"key": "heads/femknighthead.bundle",
+			"dependencyKeys": [	
+				"mats/knightmat.bundle"
+			]
+		},
+		{
+			"key": "heads/fembigpipehead.bundle",
+			"dependencyKeys": [	
+				"mats/bigpipemat.bundle"
+			]
+		},
+		{
+			"key": "clothing/bigpipeleg.bundle",
+			"dependencyKeys": [	
+				"mats/bigpipemat.bundle"
+			]
+		},
+		{
+			"key": "clothing/bigpipeskin.bundle",
+			"dependencyKeys": [	
+				"mats/bigpipemat.bundle"
+			]
+		},
+		{
+			"key": "mats/bigpipemat.bundle",
+			"dependencyKeys": [	]
+		},
+		{
+			"key": "heads/fembirdeyehead.bundle",
+			"dependencyKeys": [	
+				"mats/birdeyemat.bundle"
+			]
+		},
+		{
+			"key": "clothing/birdeyeleg.bundle",
+			"dependencyKeys": [	
+				"mats/birdeyemat.bundle"
+			]
+		},
+		{
+			"key": "clothing/birdeyeskin.bundle",
+			"dependencyKeys": [	
+				"mats/birdeyemat.bundle"
+			]
+		},
+		{
+			"key": "mats/birdeyemat.bundle",
+			"dependencyKeys": [	]
+		},
+		{
+			"key": "mats/warriormat.bundle",
+			"dependencyKeys": [	]
+		},
+		{
+			"key": "heads/femwarriorhead.bundle",
+			"dependencyKeys": [	"mats/warriormat.bundle"]
+		},
+		{
+			"key": "clothing/warriorbody.bundle",
+			"dependencyKeys": ["mats/warriormat.bundle"	]
+		},
+		{
+			"key": "clothing/warriorleg.bundle",
+			"dependencyKeys": ["mats/warriormat.bundle"	]
+		},
+		{
+			"key": "mats/priestmat.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "clothing/priestskin.bundle",
+			"dependencyKeys": ["mats/priestmat.bundle"	]
+		},
+		{
+			"key": "heads/fempriesthead.bundle",
+			"dependencyKeys": ["mats/priestmat.bundle"	]
+		},
+		{
+			"key": "clothing/scav01.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "clothing/scav02.bundle",
+			"dependencyKeys": []
+		}
+	   ]
+}
